@@ -2,6 +2,10 @@
 
 API RESTful para plataforma de Upskilling/Reskilling (Tema: Futuro do Trabalho).
 
+## Integrantes
+Matheus Marcelino Dantas da Silva - RM556332
+Douglas dos Santos Melo - RM55439
+Henrique Borges de Castro Sanches - RM557959
 
 ## Apresentação descritiva
 A DHM – Desenvolvimento de Habilidades Modernas é uma plataforma criada para ajudar pessoas a se manterem relevantes em um mercado que muda numa velocidade absurda. O nosso foco é simples: facilitar o aprendizado de novas competências e apoiar quem quer evoluir na carreira, seja melhorando o que já sabe ou mudando completamente de área.
